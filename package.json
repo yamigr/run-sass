@@ -1,0 +1,35 @@
+{
+  "name": "run-sass",
+  "version": "1.0.0",
+  "description": "Package to manage and compile sass-files at startup or in runtime without restarting.",
+  "main": "lib/main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "homepage": "https://github.com/yamigr/run-sass#readme",
+  "keywords": [
+    "pusuDB",
+    "pusudb",
+    "middleware",
+    "extension",
+    "web",
+    "compiler",
+    "IoT",
+    "frameworks",
+    "framework",
+    "backend",
+    "sass",
+    "css",
+    "stylesheet"
+  ],
+  "author": "yannick grund, https://github.com/yamigr",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.11.0",
+    "sass": "^1.15.2",
+    "watch": "^1.0.2"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
